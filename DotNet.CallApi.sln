@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallAPI", "CallAPI\CallAPI.csproj", "{8E97F1D8-9ED5-47A2-9ED5-67ABC2C2B91E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B5439EA3-0CE0-4E31-97BA-9A8218540ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E97F1D8-9ED5-47A2-9ED5-67ABC2C2B91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E97F1D8-9ED5-47A2-9ED5-67ABC2C2B91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E97F1D8-9ED5-47A2-9ED5-67ABC2C2B91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E97F1D8-9ED5-47A2-9ED5-67ABC2C2B91E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5439EA3-0CE0-4E31-97BA-9A8218540ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5439EA3-0CE0-4E31-97BA-9A8218540ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5439EA3-0CE0-4E31-97BA-9A8218540ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5439EA3-0CE0-4E31-97BA-9A8218540ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
